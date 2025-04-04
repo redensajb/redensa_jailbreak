@@ -18,7 +18,7 @@ Redensa is a jailbreak tool that lets iPhone and iPad users install third-party 
 ## How to Install Redensa:
 
 1. Get the Installer – Download Xookz App Store  from below link and find Redensa.<br><br> 
-for iOS 18.4 - <a href="http://redensa.com/install/18-4/redensa/"><u>Download</u></a>
+for iOS 18.4 - <a href="http://redensa.com/install/18-4/redensa/"><u>Download</u></a><br> 
 for iOS 18.5 - <a href="http://redensa.com/install/18-5/redensa/"><u>Download</u></a>
 
 2. Download & Install – Click "Allow" → "OK" → "Install."
